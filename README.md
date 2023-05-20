@@ -31,3 +31,8 @@ https://excelchamps.com/vba/autofit/#AutoFit_a_Column
 
 
 (6)  Worked with TA for 15 min during Office hours on 5/11/23 and also had Tutor session on 5/13/23 - regarding process to get accurate open price for each ticker. I was really hung up on that.  As my tutor nicely clarified "I was over-thinking it".  It took me a while but finally figured it out and was able to finish remaining steps.
+
+
+Updated - 5-19-23
+
+Worked with another tutor on 5-19.   Through review found some lines missing the ws.* in front of "cells", causing the loop to not continue properly on 2nd and 3rd sheets.  Updated code and resubmitted.
